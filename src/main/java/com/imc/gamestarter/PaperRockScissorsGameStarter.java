@@ -4,7 +4,6 @@ import com.imc.game.Game;
 import com.imc.game.PaperRockScissorsGame;
 import com.imc.scorewriter.PaperRockScissorsScoreWriter;
 import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  * A class responsible for starting a Paper-Rock-Scissors game.
